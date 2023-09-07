@@ -1,6 +1,6 @@
 # Definition
 
-A `for` loop runs for a specified number of cycles, either denoted by a variable or implicitly by the size of the array.
+A `for` [[Loops|loop]] runs for a specified number of cycles, either denoted by a variable or implicitly by the size of the array.
 ```java
 for (_dataType_ _counter_ = _value_; _counter_ <= _guardian_; _counter__increment_){
 	statement executed each time;
@@ -23,7 +23,7 @@ _See: [[#Applications#For Loop]]_
 
 ## Enhanced For Loop
 
-Also referred to as a `For-Each` loop, an enhanced for loop is designed for use with arrays.
+Also referred to as a `For-Each` [[Loops|loop]], an enhanced for loop is designed for use with arrays.
 ```java
 for (_arrayDataType_ _variable_ : _arrayName_){
 	statement;
@@ -35,7 +35,7 @@ for (Person p : personsArray) {
 	System.out.println(p.getName());
 }
 ```
-This can be read as: "For each `Person` `p` of the `personsArray` array, print `p.getName()`."
+This can be read as: "For each `Person` `p` of the `personsArray` array, print `p.getName()`." 
 
 _See: [[#Applications#Enhanced For Loop]]_
 

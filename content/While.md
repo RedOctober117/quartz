@@ -1,14 +1,38 @@
 # Definition
 
-A `while` loop runs _while_ a condition is met.
+A `while` [[Loops|loop]] runs _while_ a condition is met.
 ```java
 // Define a variable to use as a stopping mechanism
-boolean done = false;
+boolean _condition_ = false;
 
-while(!done){
+while(_conditionMet_){
 	statement until condition met, where done = false;
 }
 ```
+While loops are read much easier than [[For|for loops]]. "While `_conditionMet_` is true, do something." This can be a little wonky at the beginning, but it's important to remember that while loops only run while something is **true**. The logic to flip that switch to false will be inside the loop itself. 
+
+An intuitive example of this is as follows:
+```java
+boolean done = false;
+
+while (!done){
+	for (int i = 0; i < 5; i++){
+		System.out.println("Not done yet!");
+	}
+	done = true;
+}
+```
+We receive the following output: 
+```txt
+Not done yet!
+Not done yet!
+Not done yet!
+Not done yet!
+Not done yet!
+Done!
+```
+So, while we are _not_ done (`!done`), we print "`Not done yet!`", and after five cycles, we set `done = true` and terminate the loop.
+
 _See: [[#Applications]]_.
 # Applications
 ```java
