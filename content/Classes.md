@@ -118,5 +118,12 @@ The `data type` of a given method depends entirely on the purpose of said functi
 An important note: you may notice that the `accessors` use `this.` in their `return` statement. `this.` points to the `instance variable` of that name. Imagine that you're holding a mechanical pencil and someone asks you "what color is your mechanical pencil?" You reply "this is purple." `this.color` is purple. Using this shorthand also lets you be _lazy_, if you will, with your parameter variables. Instead of having to say:
 ```java
 public void setColor(String newColor){
+	this.color = newColor;
 ```
-I can just say `String color`. So the assignment statement can be read as follows, "_this_ color is the passed color." 
+I can just say:
+```java
+public voud setColor(String color){
+	this.color = color;
+}
+```
+So the assignment statement can be read as follows, "_this_ color is the passed color." 
