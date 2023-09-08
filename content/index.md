@@ -1,7 +1,7 @@
 ---
 title: Telemakos's Notes
 ---
-The goal of this website is to share any and all of my personal research on basically any topic. 
+A collection of my notes on various CS topics.
 
 - [[Java]]
 - [[Assembly]]
