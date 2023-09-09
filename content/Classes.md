@@ -122,8 +122,8 @@ public void setColor(String newColor){
 ```
 I can just say:
 ```java
-public voud setColor(String color){
+public void setColor(String color){
 	this.color = color;
 }
 ```
-So the assignment statement can be read as follows, "_this_ color is the passed color." 
+So the assignment statement can be read as follows, "_this_ color is the passed color." And because we don't need a value to be returned from our `mutators`, we set their `return type` to `void`, telling Java to expect nothing.
