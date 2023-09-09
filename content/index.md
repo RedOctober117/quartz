@@ -5,4 +5,5 @@ A collection of my notes on various CS topics.
 
 - [[Java]]
 - [[Assembly]]
+- [[Excursions]]
 

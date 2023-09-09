@@ -9,7 +9,7 @@ while(_conditionMet_){
 	statement until condition met, where done = false;
 }
 ```
-While loops are read much easier than [[For|for loops]]. "While `_conditionMet_` is true, do something." This can be a little wonky at the beginning, but it's important to remember that while loops only run while something is **true**. The logic to flip that switch to false will be inside the loop itself. 
+While loops are read much easier than [[Java's For|for loops]]. "While `_conditionMet_` is true, do something." This can be a little wonky at the beginning, but it's important to remember that while loops only run while something is **true**. The logic to flip that switch to false will be inside the loop itself. 
 
 An intuitive example of this is as follows:
 ```java

@@ -1,6 +1,6 @@
 # Definition
 
-A `do while` [[Loops|loop]] performs some action while a condition is true. This differs from a [[While|while]] loop because the condition is checked after execution, not before, and the loop will always run at least once. 
+A `do while` [[Loops|loop]] performs some action while a condition is true. This differs from a [[Java's While|while]] loop because the condition is checked after execution, not before, and the loop will always run at least once. 
 ```java
 do {
      statement(s)
