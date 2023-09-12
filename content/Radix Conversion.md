@@ -49,16 +49,4 @@ The new base is comprised of the remainders. When converting integer components,
 ```
 
 # Fractional Values from Base 10 to n-Radix
-Fractional values are converted inversely from integers. Rather than division, the fractional value is multiplied by the new radix, and the number left of the decimal is taken as the new index value. 
-
-```txt
-0.03125 (Base 10) -> (Base 2):
-0.03125 * 2 = 0.0625  R0
- 0.0625 * 2 = 0.125   R0
-  0.125 * 2 = 0.25    R0
-   0.25 * 2 = 0.5     R0
-    0.5 * 2 = 1.0     R1
-
-Result is read top to bottom: .00001
-```
-Just like with integer conversion, when you encounter a 1 to the left of the decimal, drop it when moving to the next multiplication step.
+Fractional values are converted inversely from integers. Rather than division, the fractional value is multiplied by the new radix. 

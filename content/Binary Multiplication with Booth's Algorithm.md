@@ -1,6 +1,6 @@
 _Booth's Algorithm_ simplifies binary multiplication. Problems are of two parts:
 - `Multiplicand (M)`
-- `Multiplier (Q)`
+- `Multiplier(Q)`
 
 Booth discovered that for any given `Q`, it can be represented as such:
 

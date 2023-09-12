@@ -1,4 +1,4 @@
-_Properties_ in [[CSharp|csharp]] bundle instance variables and methods together in a single call. They include a private `backing field` by default, and can also provide an `accessor` and `mutator`. Consider the following:
+_Properties_ in [[CSharp|c#]] bundle instance variables and methods together in a single call. They include a private `backing field` by default, and can also provide an `accessor` and `mutator`. Consider the following:
 ```csharp
 namespace proj {
 	class PropertiesEx {
@@ -7,15 +7,15 @@ namespace proj {
 		public PropertiesEx(){}
 
 		public PropertiesEx(string name){
-			this.name = name;
+		this.name = name;
 		}
 
 		public void setName(string name){
-			this.name = name;
+		this.name = name;
 		}
 
 		public string getName(){
-			return this.name;
+		return this.name;
 		}
 	}
 }
@@ -26,7 +26,7 @@ In the above code we have:
 - a **setter**, `setName(string name)`
 - and a **getter**, `getName()`
 
-These components are the barebones of a class in [[CSharp|csharp]]. Properties allow us to simplify this code significantly. The following example achieves the same functionality as the above example, but with far less code:
+These components are the barebones of a class in [[CSharp|c#]]. Properties allow us to simplify this code significantly. The following example achieves the same functionality as the above example, but with far less code:
 ```csharp
 namespace proj {
 	class PropertiesEx2{
