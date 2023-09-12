@@ -3,17 +3,17 @@ _Properties_ in [[CSharp|csharp]] bundle instance variables and methods together
 namespace proj {
 	class PropertiesEx {
 		private string name;
-		
+
 		public PropertiesEx(){}
-		
+
 		public PropertiesEx(string name){
 			this.name = name;
 		}
-			
+
 		public void setName(string name){
 			this.name = name;
 		}
-		
+
 		public string getName(){
 			return this.name;
 		}
