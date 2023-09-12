@@ -1,1 +1,1 @@
-_Variables_ are human-readable, human-defined, memory addresses.
+_Variables_ are human-readable, user-defined, memory addresses.

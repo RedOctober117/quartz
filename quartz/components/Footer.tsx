@@ -16,6 +16,7 @@ export default ((opts?: Options) => {
         <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
+        <p>All content is property of Telemakos &copy;</p> 
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
