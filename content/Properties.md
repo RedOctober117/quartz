@@ -9,11 +9,11 @@ namespace proj {
 		public PropertiesEx(string name){
 			this.name = name;
 		}
-
+			
 		public void setName(string name){
 			this.name = name;
 		}
-
+			
 		public string getName(){
 			return this.name;
 		}
@@ -31,7 +31,7 @@ These components are the barebones of a class in [[CSharp|c#]]. Properties allow
 namespace proj {
 	class PropertiesEx2{
 		public string Name { get; set; }
-
+			
 		public PropertiesEx2(){}
 		
 		public PropertiesEx2(string name){
@@ -58,7 +58,7 @@ namespace proj {
 			get { return name;}
 			set { name = value; }
 		}
-
+			
 		public PropertiesEx3(){}
 		
 		public PropertiesEx3(string name){
