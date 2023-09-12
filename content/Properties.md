@@ -7,15 +7,15 @@ namespace proj {
 		public PropertiesEx(){}
 		
 		public PropertiesEx(string name){
-			this.name = name;
+		this.name = name;
 		}
 			
 		public void setName(string name){
-			this.name = name;
+		this.name = name;
 		}
-			
+		
 		public string getName(){
-			return this.name;
+		return this.name;
 		}
 	}
 }
