@@ -109,9 +109,9 @@ Let's move along to our methods. Consider:
 	}
 // trim
 ```
-`Methods` are similar to `constructors`. They're `public`, so that we can use them outside of this file, and sometimes they accept parameters. There are two major differences:
+`Methods` are defined similar to `constructors`. They're `public`, so that we can use them outside of this file, and sometimes they accept parameters. There are two major differences:
 - Each `method` has a `data type`
-- `Methods` are written in camel case
+- `Methods` are written in camelCase
 
 The `data type` of a given method depends entirely on the purpose of said function. There are two major purpose categories: `accessors` and `mutators` (or `getters` and `setters`, if you'd like). `Accessors` allow us to get the current value of an `instance variable`, its state. Because they `return` a value, we need to tell Java, yet again, what to expect. If we want to know the `color` of a given `MechanicalPencil`, the compiler should expect a `String` in return, a `double` for `leadSize`, and a `double` for `springWeight`. Again, they are `public` so that we can use them outside of this class file. 
 
