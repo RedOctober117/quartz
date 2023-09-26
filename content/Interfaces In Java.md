@@ -1,0 +1,1 @@
+_Interfaces_ in [[Java]] allow a developer to describe a commonality between otherwise unrelated objects.

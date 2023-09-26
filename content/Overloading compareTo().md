@@ -13,3 +13,7 @@ public int compareTo(<Object> o){
 ```
 
 The values `1`, `-1`, and `0`, are all used by the `Collections.sort()` method to determine where to put elements of an ArrayList.
+
+|x|y|z|x'y'z'|output|
+|-|-|-|-|-|
+|0|0|0|1|1|

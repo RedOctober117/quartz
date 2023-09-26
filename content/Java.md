@@ -8,3 +8,4 @@ Java is an [[Object Oriented Programming (OOP)|object oriented programming]] lan
 [[Abstraction in Java]]
 [[Generating Java Documentation]]
 [[Overloading compareTo()]]
+[[Interfaces In Java]]
