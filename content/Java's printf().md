@@ -24,3 +24,17 @@ double variableOfDoubleOrFloatingType = 42;
 System.out.printf("%f <- your variable is substituted here!", variableOfDoubleOrFloatingType);
 ```
 
+To have `printf()` substitute our variable, we must first use the correct `flag`. Each primitive has a corresponding flag built into Java:
+- `s` = `String`
+- `d` = `int`
+- `f` = `float` or `double`
+- `t` = `date/time`
+- `b` = `boolean`
+- `c` = `char`
+
+The format for a flag is as follows:
+```txt
+%[flags][width][.precision]conversion-character
+```
+
+Please visit [Baeldung](https://www.baeldung.com/java-printstream-printf) for a breakdown of each flag.
