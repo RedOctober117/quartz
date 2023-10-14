@@ -13,6 +13,7 @@ A collection of my notes on various CS topics.
 
 ## Non CS
 - [[Dungeons and Dragons]]
+- [[Wishlist]]
 
 ## Tools
 [Languages supported by Obsidian Syntax Highlighting](https://prismjs.com/#supported-languages)

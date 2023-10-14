@@ -1,0 +1,21 @@
+[Anything from Amazon Wishlist:](https://www.amazon.com/hz/wishlist/ls/1QUP5SL57X7DR?ref_=wl_share)
+[Citizen Messenger Bag:](https://chromeindustries.com/products/citizen-messenger-bag) $150.00
+~~[CALMER SOFT:](  https://www.flareaudio.com/en-us/products/calmer-soft?variant=40155456667751) $29.99~~
+~~[Engage Plus:  ](https://us.loopearplugs.com/products/engage-plus?variant=43838787813609&quiz-kit-id=11601&quiz-kit-api-call-url=https://api.quizkitapp.com/api/v1/quizzes/yWREBMdA0/add-to-cart )$44.95~~
+[Loop Switch:](https://us.loopearplugs.com/products/switch?variant=45556674494697) $59.95
+[Saatva Latex Pillow:](https://www.saatva.com/bedding/the-saatva-pillow?coupon=ktznlumbzxwrfktr) $165
+[HiFiMAN Anada:]( https://www.headphones.com/collections/open-back/products/hifiman-ananda) $699
+[JDS Labs Atom DAC+:](https://jdslabs.com/product/atom-dac-plus/) $119 
+[Buds2 Pro:](https://www.bestbuy.com/site/samsung-galaxy-buds2-pro-true-wireless-earbud-headphones-bora-purple/6510541.p?skuId=6510541#anchor=productVariations) $229.99 
+[Logitech G502 X:](https://www.bestbuy.com/site/logitech-g502-x-lightspeed-wireless-gaming-mouse-with-hero-25k-sensor-black/6512120.p?skuId=6512120) $139.99 
+[Sennheiser HD 600:](https://www.amazon.com/dp/B00004SY4H/?psc=1) $299.99
+[DnD Spelljammer:](https://www.amazon.com/dp/0786968168/?psc=1 )$41.99
+[Moonlander Keyboard (Dark Matter, Printed RGB Compatible, Kailh Gold):]( https://www.zsa.io/moonlander/buy )$365.00 
+Valve Steam Deck (64GB Version): $399.99 
+[Gladiator NXT EVO ‘Space Combat Edition’ (SCG Standard Right):](https://vkbcontrollers.com/?product=gladiator-evo-space-combat-edition) $135.00 
+[Gladiator NXT EVO Omni Throttle (GNX EVO Omni Throttle w/ SCG Left Premium):]( https://vkbcontrollers.com/?product=gladiator-evo-omni-throttle )$175.00
+[Essential Data Science:](https://www.amazon.com/Essential-Math-Data-Science-Fundamental/dp/1098102932/ref=zg_bs_13899_sccl_3/131-7746634-6821323?psc=1) $35.99
+[Orbit Plus Turntable:](https://uturnaudio.com/products/orbit-plus-turntable) $399
+[IfI Zen Phono: ](https://www.walmart.com/ip/iFi-Audio-ZEN-Air-Phono-External-Turntable-Phono-Preamplifier/1650287166?irgwc=1&sourceid=imp_12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&veh=aff&wmlspartner=imp_1943169&clickid=12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&sharedid=whathifi-us&affiliates_ad_id=568844&campaign_id=9383) $99.00
+[Cyberpunk 2077: No Coincidence:]( https://www.hachettebookgroup.com/titles/rafal-kosik/cyberpunk-2077-no-coincidence/9780759555952/?lens=orbit) $18.99
+
