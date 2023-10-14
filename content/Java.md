@@ -10,3 +10,6 @@ Java is an [[Object Oriented Programming (OOP)|object oriented programming]] lan
 - [[Overloading compareTo() in Java]]
 - [[Interfaces In Java]]
 - [[Java's File()]]
+- [[Java's Scanner()]]
+- [[Java's printf()]]
+- 

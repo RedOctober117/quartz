@@ -9,7 +9,8 @@ A collection of my notes on various CS topics.
 - [[Assembly]]
 - [[SurrealDB]]
 - [[Excursions]]
-
+- [[Rust]]
+- 
 
 ## Non CS
 - [[Dungeons and Dragons]]
