@@ -19,4 +19,5 @@
 - [IfI Zen Phono: ](https://www.walmart.com/ip/iFi-Audio-ZEN-Air-Phono-External-Turntable-Phono-Preamplifier/1650287166?irgwc=1&sourceid=imp_12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&veh=aff&wmlspartner=imp_1943169&clickid=12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&sharedid=whathifi-us&affiliates_ad_id=568844&campaign_id=9383) \$99.00
 - [Cyberpunk 2077: No Coincidence:]( https://www.hachettebookgroup.com/titles/rafal-kosik/cyberpunk-2077-no-coincidence/9780759555952/?lens=orbit) \$18.99
 - [Moondrop PARA:](https://shenzhenaudio.com/products/moondrop-para-full-size-planar-headphone) $299.99
+- [The Art of Electronics:](https://www.amazon.com/The-Art-Electronics-Paul-Horowitz/dp/0521809266?&linkCode=wey&tag=maggicom0e-20) $111.00
 
