@@ -11,7 +11,6 @@ A collection of my notes on various CS topics.
 - [[Excursions]]
 - [[Rust]]
 - [[Recursion]]
-- 
 
 ## Non CS
 - [[Dungeons and Dragons]]
