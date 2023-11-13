@@ -20,4 +20,6 @@
 - [Cyberpunk 2077: No Coincidence:]( https://www.hachettebookgroup.com/titles/rafal-kosik/cyberpunk-2077-no-coincidence/9780759555952/?lens=orbit) \$18.99
 - [Moondrop PARA:](https://shenzhenaudio.com/products/moondrop-para-full-size-planar-headphone) $299.99
 - [The Art of Electronics:](https://www.amazon.com/The-Art-Electronics-Paul-Horowitz/dp/0521809266?&linkCode=wey&tag=maggicom0e-20) $111.00
+- [Paintings:](https://www.inprnt.com/gallery/anatofinnstark/) $varries
+- 
 

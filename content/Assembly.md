@@ -2,3 +2,4 @@
 [[Signed Integer Representation]]
 [[Binary Multiplication with Booth's Algorithm]]
 [[Boolean Algebra]]
+[[Instruction Set Architecture (ISA)]]

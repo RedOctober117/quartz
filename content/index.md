@@ -10,6 +10,7 @@ A collection of my notes on various CS topics.
 - [[SurrealDB]]
 - [[Excursions]]
 - [[Rust]]
+- [[Recursion]]
 - 
 
 ## Non CS
