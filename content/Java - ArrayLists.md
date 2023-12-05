@@ -5,7 +5,7 @@ ArrayLists are not part of the `java.lang` library and thus must be imported man
 import java.util.ArrayList;
 ```
 Once imported, we can begin creating and manipulating ArrayLists:
-```java title="1.0f"{1,5}
+```java title="_Figure 1.0f_"{1,5}
 import java.util.ArrayList;
 
 public class ArrayExample {
@@ -17,6 +17,6 @@ public class ArrayExample {
 As with any variable, we have declared the **data type**, `ArrayList<String>`, the **variable name**, `myList`, and the **value** it is assigned, `new ArrayList<String>()`.
 
 We have successfully created an ArrayList via its **constructor**, `new ArrayList<>()`. The following line is valid and equivalent to line 5 of _1.0f_:
-```java title="1.1f"
+```java title="_Figure 1.1f_"
 ArrayList<String> myList = new ArrayList<>();
 ```
