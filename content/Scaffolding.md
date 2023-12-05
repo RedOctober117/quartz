@@ -1,0 +1,2 @@
+## Linked Lists
+Put up signs on a wall and start from the left of the first element (sign). Ask what the previous element was (A: None). Ask what the next is (A: walk forward to the left of the next element. Next will be the first element you walked past).

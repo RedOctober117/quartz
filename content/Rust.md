@@ -1,1 +1,1 @@
-[[Embedded]]
+- [[Rust - Embedded]]

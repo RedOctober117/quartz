@@ -1,7 +1,8 @@
 Java is an [[Object Oriented Programming (OOP)|object oriented programming]] language. 
 
 - [[Loops]]
-- [[Arrays]]
+- [[Java - Arrays]]
+- [[Java - ArrayLists]]
 - [[Classes]]
 - [[Excursions]]
 - [[Variables]]
@@ -12,4 +13,3 @@ Java is an [[Object Oriented Programming (OOP)|object oriented programming]] lan
 - [[Java's File()]]
 - [[Java's Scanner()]]
 - [[Java's printf()]]
-- 
