@@ -12,6 +12,8 @@ A collection of my notes on various CS topics.
 - [[Rust]]
 - [[Recursion]]
 - [[Scaffolding]]
+- [[Additional Resources]]
+
 
 ## Non CS
 - [[Dungeons and Dragons]]
