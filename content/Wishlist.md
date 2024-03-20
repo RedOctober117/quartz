@@ -6,7 +6,7 @@
 - [Saatva Latex Pillow:](https://www.saatva.com/bedding/the-saatva-pillow?coupon=ktznlumbzxwrfktr) \$165
 - [HiFiMAN Anada:]( https://www.headphones.com/collections/open-back/products/hifiman-ananda) \$699
 - [JDS Labs Atom DAC+:](https://jdslabs.com/product/atom-dac-plus/) \$119 
-- [Buds2 Pro:](https://www.bestbuy.com/site/samsung-galaxy-buds2-pro-true-wireless-earbud-headphones-bora-purple/6510541.p?skuId=6510541#anchor=productVariations) \$229.99 
+- ~~[Buds2 Pro:](https://www.bestbuy.com/site/samsung-galaxy-buds2-pro-true-wireless-earbud-headphones-bora-purple/6510541.p?skuId=6510541#anchor=productVariations) \$229.99~~
 - [Logitech G502 X:](https://www.bestbuy.com/site/logitech-g502-x-lightspeed-wireless-gaming-mouse-with-hero-25k-sensor-black/6512120.p?skuId=6512120) \$139.99 
 - [Sennheiser HD 600:](https://www.amazon.com/dp/B00004SY4H/?psc=1) \$299.99
 - [DnD Spelljammer:](https://www.amazon.com/dp/0786968168/?psc=1 )\41.99
@@ -20,6 +20,5 @@
 - [Cyberpunk 2077: No Coincidence:]( https://www.hachettebookgroup.com/titles/rafal-kosik/cyberpunk-2077-no-coincidence/9780759555952/?lens=orbit) \$18.99
 - [Moondrop PARA:](https://shenzhenaudio.com/products/moondrop-para-full-size-planar-headphone) $299.99
 - [The Art of Electronics:](https://www.amazon.com/The-Art-Electronics-Paul-Horowitz/dp/0521809266?&linkCode=wey&tag=maggicom0e-20) $111.00
-- [Paintings:](https://www.inprnt.com/gallery/anatofinnstark/) $varries
+- [Paintings:](https://www.inprnt.com/gallery/anatofinnstark/) $varies
 - 
-
