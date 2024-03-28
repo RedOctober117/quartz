@@ -3,21 +3,20 @@
 $$
 \lambda 
 $$
-$\lambda$ calculus "can be called the smallest universal programming language of the world" ([source](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)). It consists of a single transformation rule and a single function definition scheme. Expressions and names comprise the foundation of $\lambda$ calculus.
+$\lambda$ calculus "can be called the smallest universal programming language of the world" ([source](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)), because it is Turing complete. It consists of a single transformation rule and a single function definition scheme. Expressions comprise all of $\lambda$ calculus.
+
+The following are all valid forms of grammar:
 
 $$
-\begin{aligned}
-expression := name | function | application \\
-function := \lambda \space name.expression \\
-application := (expression)(expression) \\
-\end{aligned}
+\begin{flalign}
+E \rightarrow name  \\ 
+E \rightarrow \lambda \space name.E \\ 
+E \rightarrow EE \\ 
+E = (E) \\ 
+\end{flalign}
 $$
 
-Expressions can be enclosed in parenthesis for clarity, such that:
-$$
-E = (E)
-$$
-The convention is to evaluate expressions left to right:
+To avoid parsing ambiguity, $expressions$ are always left associated:
 $$
 E_1E_2E_3...E_n
 $$
@@ -28,13 +27,27 @@ $$
 This is the same principle that the post script notation uses.
 ## Functions
 
-$\lambda$ expressions have a single identifier, $\lambda$, and look as follows:
+### Anonymous Functions
+
+$\lambda$ expressions have a single identifier, $\lambda$, and follow this format:
+$$
+\lambda name . E
+$$
+This defines a new _anonymous_ function. Here is an example:
 $$
 \lambda x.x
 $$
-The name after $\lambda$ is the parameter $x$ for the body $x$. This is the identity function, as we will soon see.
+This is the identity function. The name after $\lambda$ is the parameter $x$ for the body $x$. 
 
-An $application$ is one expression applied to another, like so:
+### Function Applications
+Functions in $\lambda$ calculus are applied like so:
+$$
+E \rightarrow E_1E_2
+$$
+
+This calls $E_1$ and sets its formal parameter to $E_2$.
+
+Let's use our example from [[#Anonymous Functions]] to demonstrate:
 $$
 (\lambda x.x)y
 $$
@@ -42,10 +55,21 @@ Here, we applied the expression $y$ to the expression $(\lambda x.x)$. When doin
 $$
 (\lambda x.x)y = [y/x]x = y
 $$
-
 Left of the first equals, we have the application. Next, we have $[y/x]$, meaning substitute $y$ for all occurrences of $x$ in the body of $\lambda x.x$. Because the body is comprised entirely of $x$, only one substitution takes place. Thus, $y$ is returned as the result of $(\lambda x.x)y$.
 
-Names do not have any functional purpose other than to distinguish one variable from another. For example:
+This is similar in most parts to languages like python:
+```python
+def x(x):
+	return x
+```
+Note, however, that in $\lambda$ calculus, functions do not have names; all functions are anonymous. A proper (but invalid) model of this in python is:
+```python
+def (x):
+	return x
+```
+If you would like to see a true application of $\lambda$s in python, see [this documentation](https://docs.python.org/3/reference/expressions.html#lambda).
+
+Names, like variables, do not have any functional purpose other than to distinguish one variable from another. For example:
 $$
 (\lambda x.x) \equiv (\lambda y.y) \equiv (\lambda z.z) \equiv (\lambda u.u)
 $$
