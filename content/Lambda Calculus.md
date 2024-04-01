@@ -29,11 +29,11 @@ This is the same principle that the post script notation uses.
 
 ### Anonymous Functions
 
-$\lambda$ expressions have a single identifier, $\lambda$, and follow this format:
+$\lambda$ functions have a single identifier, $\lambda$, and follow this format:
 $$
 \lambda name . E
 $$
-This defines a new _anonymous_ function. Here is an example:
+This defines a new _anonymous_ function. All functions are anonymous in $\lambda$ calculus. Here is an example:
 $$
 \lambda x.x
 $$
@@ -57,12 +57,12 @@ $$
 $$
 Left of the first equals, we have the application. Next, we have $[y/x]$, meaning substitute $y$ for all occurrences of $x$ in the body of $\lambda x.x$. Because the body is comprised entirely of $x$, only one substitution takes place. Thus, $y$ is returned as the result of $(\lambda x.x)y$.
 
-This is similar in most parts to languages like python:
+This format is seen in most common languages like python:
 ```python
 def x(x):
 	return x
 ```
-Note, however, that in $\lambda$ calculus, functions do not have names; all functions are anonymous. A proper (but invalid) model of this in python is:
+Note, however, that in $\lambda$ calculus, functions do not have names; all functions are anonymous. A proper (but syntactily invalid) model of this in python is:
 ```python
 def (x):
 	return x
@@ -103,7 +103,11 @@ $$
 $$
 This application first computes the identity of $y$, and passes that value into $(\lambda x.xy)$, where it is substituted for $x$, thus resulting in the function $(\lambda y.y)$. 
 
-??????????????????? ^^
+## $\alpha$ Equivalence
+
+
+
+
 ## Substitutions
 
 In $\lambda$ calculus, functions _do not_ have names. The whole function is written when it is required, but this process can be simplified with capital letters, numbers, and symbols as synonyms. 
