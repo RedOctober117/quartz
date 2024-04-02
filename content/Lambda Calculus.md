@@ -8,12 +8,12 @@ $\lambda$ calculus "can be called the smallest universal programming language of
 The following are all valid forms of grammar:
 
 $$
-\begin{flalign}
+\begin{aligned}
 E \rightarrow name  \\ 
 E \rightarrow \lambda \space name.E \\ 
 E \rightarrow EE \\ 
 E = (E) \\ 
-\end{flalign}
+\end{aligned}
 $$
 
 To avoid parsing ambiguity, $expressions$ are always left associated:
