@@ -53,16 +53,16 @@ $$
 $$
 Here, we applied the expression $y$ to the expression $(\lambda x.x)$. When doing so, we substitute the free variable $y$ for each occurrence of the bound variable $x$:
 $$
-(\lambda x.x)y = [y/x]x = y
+(\lambda x.x)y = \{y/x\}x = y
 $$
-Left of the first equals, we have the application. Next, we have $[y/x]$, meaning substitute $y$ for all occurrences of $x$ in the body of $\lambda x.x$. Because the body is comprised entirely of $x$, only one substitution takes place. Thus, $y$ is returned as the result of $(\lambda x.x)y$.
+Left of the first equals, we have the application. Next, we have $\{y/x\}$, meaning substitute $y$ for all occurrences of $x$ in the body of $\lambda x.x$. Because the body is comprised entirely of $x$, only one substitution takes place. Thus, $y$ is returned as the result of $(\lambda x.x)y$.
 
 This format is seen in most common languages like python:
 ```python
 def x(x):
 	return x
 ```
-Note, however, that in $\lambda$ calculus, functions do not have names; all functions are anonymous. A proper (but syntactily invalid) model of this in python is:
+Note, however, that in $\lambda$ calculus, functions do not have names; all functions are anonymous. A proper (but syntactically invalid) model of this in python is:
 ```python
 def (x):
 	return x
@@ -99,14 +99,44 @@ Variable $name$ is _bound_ if one of two cases hold:
 
 An identifier can be free and bound in the same expression:
 $$
-(\lambda x.xy)(\lambda y.y)
+\begin{aligned}
+(\lambda x.xy)(\lambda y.y)\\
+\lambda y.yy
+\end{aligned}
 $$
-This application first computes the identity of $y$, and passes that value into $(\lambda x.xy)$, where it is substituted for $x$, thus resulting in the function $(\lambda y.y)$. 
+Initially, $y$ is free in $(\lambda x.xy)$. After the application of $(\lambda y.y)$, $y$ becomes bound.
 
 ## $\alpha$ Equivalence
 
+### Single Renaming
+$\alpha$-Equivalence occurs when two functions vary only by the names of the bound variables.
+$$
+E_1 =_\alpha E_2
+$$
+One $\alpha$ equivalent expression can be converted to another with a simple renaming procedure. 
+$$
+E \space \{y/x\}
+$$
+The renamed $name \space y$ cannot already exist in $E$, neither bound nor free. 
+$$
+\begin{aligned}
+x \space \{y/x\} = y \\
+z \space \{y/x\} = z, \text{if } x \neq z
+\end{aligned}
+$$
+All possible single-$name$ scenarios are covered by the above two expressions. For an expression $x$, $\{y/x\}$ changes all $x$s to $y$, thus returning $y$. For an expression $z$, $\{y/x\}$ is only valid if $z$ _does not_ equal $x$. That is the case here, so nothing is renamed and we are returned the original expression $z$.
 
+### Distributed Renaming
+When working with multiple expressions, the renaming procedure is distributed to both:
+$$
 
+(E_1E_2)\{y/x\} = (E_1 \space \{y/x\})(E_2 \space \{y/x\})
+$$
+$$ \Downarrow $$
+$$
+(\lambda x.E)\{y/x\} = (\lambda y.E \{y/x\})
+$$
+Simply put, $\lambda x$ is renamed to $\lambda y$, and because $E$ is currently unknown, we simply note the $\{y/x\}$ change along with $E$. 
 
 ## Substitutions
 
