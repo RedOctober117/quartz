@@ -4,6 +4,8 @@ title: Telemakos's Notes
 ## CS
 A collection of my notes on various CS topics.
 
+- [[Machine Learning]]
+- [[Lambda Calculus]]
 - [[Data Structures]]
 - [[Java]]
 - [[CSharp]]
