@@ -24,3 +24,5 @@
 - [Lorna Shore - Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI)
 - [A Forest Of Stars - Beware the Sword You Cannot See](https://open.spotify.com/album/3PRNd1iZYOmUx2MN9CqlRZ)
 - [Sabrina Claudio - Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2)
+- [Bread - Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy?si=g2jGcbrrQ3Saa72RFYWrgQ)
+- [Lobo - The Best Of Lobo](https://open.spotify.com/album/5FXBEje9MaN8rSPODQaXAL)
