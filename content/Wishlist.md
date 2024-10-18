@@ -1,6 +1,5 @@
 - [Anything from Amazon Wishlist:](https://www.amazon.com/hz/wishlist/ls/1QUP5SL57X7DR?ref_=wl_share)
 - [Citizen Messenger Bag:](https://chromeindustries.com/products/citizen-messenger-bag) \$150.00
-- [Loop Switch:](https://us.loopearplugs.com/products/switch?variant=45556674494697) \$59.95
 - [HiFiMAN Anada:]( https://www.headphones.com/collections/open-back/products/hifiman-ananda) \$699
 - [JDS Labs Atom DAC+:](https://jdslabs.com/product/atom-dac-plus/) \$119 
 - [Sennheiser HD 600:](https://www.amazon.com/dp/B00004SY4H/?psc=1) \$299.99
@@ -14,6 +13,7 @@
 - [Solder Wick](https://www.adafruit.com/product/149) \$3.00
 - Soldering Iron Brass Pad for cleaning
 - Small watering can for my plants
+- new battery backup for my pc
 
 ---
 
@@ -25,3 +25,4 @@
 - ~~[CALMER SOFT:](  https://www.flareaudio.com/en-us/products/calmer-soft?variant=40155456667751) \$29.99~~
 - ~~[The Art of Electronics:](https://www.amazon.com/The-Art-Electronics-Paul-Horowitz/dp/0521809266?&linkCode=wey&tag=maggicom0e-20) \$111.00~~
 - ~~[Essential Data Science:](https://www.amazon.com/Essential-Math-Data-Science-Fundamental/dp/1098102932/ref=zg_bs_13899_sccl_3/131-7746634-6821323?psc=1) \$35.99~~
+- ~~[Loop Switch:](https://us.loopearplugs.com/products/switch?variant=45556674494697) \$59.95~~
