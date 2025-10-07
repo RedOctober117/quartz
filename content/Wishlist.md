@@ -1,28 +1,12 @@
-- [Anything from Amazon Wishlist:](https://www.amazon.com/hz/wishlist/ls/1QUP5SL57X7DR?ref_=wl_share)
+- [MEEDEN Classic Heavy Duty H-Frame Artist Easel-DW01](https://meedenart.com/products/md-dw01-large-h-frame-studio-easel) \$160
 - [Citizen Messenger Bag:](https://chromeindustries.com/products/citizen-messenger-bag) \$150.00
 - [HiFiMAN Anada:]( https://www.headphones.com/collections/open-back/products/hifiman-ananda) \$699
 - [JDS Labs Atom DAC+:](https://jdslabs.com/product/atom-dac-plus/) \$119 
 - [Sennheiser HD 600:](https://www.amazon.com/dp/B00004SY4H/?psc=1) \$299.99
-- Valve Steam Deck (64GB LCD Version): \$399.99 
 - [Gladiator NXT EVO ‘Space Combat Edition’ (SCG Standard Right):](https://vkbcontrollers.com/?product=gladiator-evo-space-combat-edition) \$135.00 
 - [Gladiator NXT EVO Omni Throttle (GNX EVO Omni Throttle w/ SCG Left Premium):]( https://vkbcontrollers.com/?product=gladiator-evo-omni-throttle )\$175.00
 - [Orbit Plus Turntable:](https://uturnaudio.com/products/orbit-plus-turntable) \$399
 - [IfI Zen Phono: ](https://www.walmart.com/ip/iFi-Audio-ZEN-Air-Phono-External-Turntable-Phono-Preamplifier/1650287166?irgwc=1&sourceid=imp_12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&veh=aff&wmlspartner=imp_1943169&clickid=12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&sharedid=whathifi-us&affiliates_ad_id=568844&campaign_id=9383) \$99.00
 - [Moondrop PARA:](https://shenzhenaudio.com/products/moondrop-para-full-size-planar-headphone) \$299.99
-- [Paintings:](https://www.inprnt.com/gallery/anatofinnstark/) \$varies
 - [Solder Wick](https://www.adafruit.com/product/149) \$3.00
-- Soldering Iron Brass Pad for cleaning
-- Small watering can for my plants
-- new battery backup for my pc
 
----
-
-- ~~[Cyberpunk 2077: No Coincidence:]( https://www.hachettebookgroup.com/titles/rafal-kosik/cyberpunk-2077-no-coincidence/9780759555952/?lens=orbit) \$18.99~~
-- ~~[DnD Spelljammer:](https://www.amazon.com/dp/0786968168/?psc=1 )\$41.99~~
-- ~~[Moonlander Keyboard (Dark Matter, Printed RGB Compatible, Kailh Gold):](https://www.zsa.io/moonlander/buy)\$365.00~~
-- ~~[Logitech G502 X:](https://www.bestbuy.com/site/logitech-g502-x-lightspeed-wireless-gaming-mouse-with-hero-25k-sensor-black/6512120.p?skuId=6512120) \$139.99~~
-- ~~[Saatva Latex Pillow:](https://www.saatva.com/bedding/the-saatva-pillow?coupon=ktznlumbzxwrfktr) \$165~~
-- ~~[CALMER SOFT:](  https://www.flareaudio.com/en-us/products/calmer-soft?variant=40155456667751) \$29.99~~
-- ~~[The Art of Electronics:](https://www.amazon.com/The-Art-Electronics-Paul-Horowitz/dp/0521809266?&linkCode=wey&tag=maggicom0e-20) \$111.00~~
-- ~~[Essential Data Science:](https://www.amazon.com/Essential-Math-Data-Science-Fundamental/dp/1098102932/ref=zg_bs_13899_sccl_3/131-7746634-6821323?psc=1) \$35.99~~
-- ~~[Loop Switch:](https://us.loopearplugs.com/products/switch?variant=45556674494697) \$59.95~~
