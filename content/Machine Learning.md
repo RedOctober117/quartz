@@ -6,9 +6,9 @@ $$
 C_0(. . .)=(a^{(L)}-y)^2
 $$
 
-Activation function for a given neuron, where $w^{(L)}$ is the weight of the neuron in the present layer, $a^{(L-1)}$ is the result of the previous layer's neuron activation function, and $b^{(L)}$ is the bias of the current layer's neuron:
+Activation function for a given neuron, where $w^{(L)}$ is the weight matrix of the neuron in the present layer, $a^{(L-1)}$ is the vector result of the previous layer's neuron activation function, and $b^{(L)}$ is the vector of biases of the current layer's neuron:
 $$
-a^{(L)}=w^{(L)}a^{(L-1)}+b^{(L)}
+a^{(L)}=\sigma (w^{(L)}a^{(L-1)}+b^{(L)})
 $$
 
 It is often easier to write the above expression as, where $\sigma$ is some non-linear function (like sigmoid or RELU):
@@ -53,3 +53,5 @@ $$
 - https://rickwierenga.com/blog/ml-fundamentals
 - https://www.kaggle.com/code/onurderya/time-series-forecasting-with-ann-lstm
 - https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=y-O2YSLIXRSt6Emj
+- https://youtu.be/hdHrBmcvBPU?si=1zeaSYA0ELbsS35L
+
