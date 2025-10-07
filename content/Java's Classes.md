@@ -1,6 +1,6 @@
 A _class_ in [[Object Oriented Programming (OOP)|object-oriented programming]] is a collection of data and methods to act on said data.
 
-Let's consider a basic [[Classes|class]] called `Mechanical Pencil`:
+Let's consider a basic [[Java's Classes|class]] called `Mechanical Pencil`:
 ```java
 public class MechanicalPencil{
 	private String color;

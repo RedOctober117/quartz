@@ -1,4 +1,4 @@
-_ArrayLists_ provide a number of benefits over standard [[Java - Arrays|arrays]]. Most importantly, they are dynamically sized. Recall that with arrays, once the size is specified, it cannot be changed directly. ArrayLists allow for dynamic addition and removal of elements via the `add()` and `remove()` methods. 
+_ArrayLists_ provide a number of benefits over standard [[Java's Array|arrays]]. Most importantly, they are dynamically sized. Recall that with arrays, once the size is specified, it cannot be changed directly. ArrayLists allow for dynamic addition and removal of elements via the `add()` and `remove()` methods. 
 
 ArrayLists are not part of the `java.lang` library and thus must be imported manually:
 ```java
