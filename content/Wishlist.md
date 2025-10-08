@@ -1,12 +1,20 @@
+- [kobo libra color - black](https://us.kobobooks.com/products/kobo-libra-colour?variant=41267371376710) \$230 optionally w/ [Metapen Stylus Pen M2](https://www.amazon.com/Metapen-Stylus-Surface-Premium-Control/dp/B0B1CY438Q) \$30
+- [Chess Tactics for Students - Bain](https://www.chesshouse.com/products/chess-tactics-for-students-bain) \$19
+- [Modern Chess Strategy](https://www.amazon.com/Modern-Chess-Strategy-Ludek-Pachman/dp/0486202909) \$19
+- [Silman's Complete Endgame Course: From Beginner to Master](https://www.amazon.com/Silmans-Complete-Endgame-Course-Beginner/dp/1890085103) \$25
 - [MEEDEN Classic Heavy Duty H-Frame Artist Easel-DW01](https://meedenart.com/products/md-dw01-large-h-frame-studio-easel) \$160
-- [Citizen Messenger Bag:](https://chromeindustries.com/products/citizen-messenger-bag) \$150.00
-- [HiFiMAN Anada:]( https://www.headphones.com/collections/open-back/products/hifiman-ananda) \$699
-- [JDS Labs Atom DAC+:](https://jdslabs.com/product/atom-dac-plus/) \$119 
-- [Sennheiser HD 600:](https://www.amazon.com/dp/B00004SY4H/?psc=1) \$299.99
-- [Gladiator NXT EVO ‘Space Combat Edition’ (SCG Standard Right):](https://vkbcontrollers.com/?product=gladiator-evo-space-combat-edition) \$135.00 
-- [Gladiator NXT EVO Omni Throttle (GNX EVO Omni Throttle w/ SCG Left Premium):]( https://vkbcontrollers.com/?product=gladiator-evo-omni-throttle )\$175.00
-- [Orbit Plus Turntable:](https://uturnaudio.com/products/orbit-plus-turntable) \$399
-- [IfI Zen Phono: ](https://www.walmart.com/ip/iFi-Audio-ZEN-Air-Phono-External-Turntable-Phono-Preamplifier/1650287166?irgwc=1&sourceid=imp_12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&veh=aff&wmlspartner=imp_1943169&clickid=12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&sharedid=whathifi-us&affiliates_ad_id=568844&campaign_id=9383) \$99.00
-- [Moondrop PARA:](https://shenzhenaudio.com/products/moondrop-para-full-size-planar-headphone) \$299.99
+- [MINISFORUM DeskMini UM560 XT Mini PC AMD Ryzen 5 5600H DDR4 32GB RAM+512GB PCIe SSD Windows 11 Desktop Computer](https://www.newegg.com/minisforum-barebone-systems-mini-pc-amd-ryzen-5-5600h/p/2SW-002G-000C7) \$300
+- [M. Graham Oil Color 37ml - Alizarin Crimson](https://www.jerrysartarama.com/m-graham-oil-color-37ml-alizarin-crimson) \$14
+- [M. Graham Oil Color 37ml - Cadmium Yellow](https://www.jerrysartarama.com/m-graham-oil-color-37ml-cadmium-yellow) \$28
+- [M. Graham Oil Color 37ml - Ultramarine Blue](https://www.jerrysartarama.com/m-graham-oil-color-37ml-ultramarine-blue) \$14
+- [Citizen Messenger Bag](https://chromeindustries.com/products/citizen-messenger-bag) \$150.00
+- [HiFiMAN Anada]( https://www.headphones.com/collections/open-back/products/hifiman-ananda) \$699
+- [JDS Labs Atom DAC+](https://jdslabs.com/product/atom-dac-plus/) \$119 
+- [Sennheiser HD 600](https://www.amazon.com/dp/B00004SY4H/?psc=1) \$299.99
+- [Gladiator NXT EVO ‘Space Combat Edition’ (SCG Standard Right)](https://vkbcontrollers.com/?product=gladiator-evo-space-combat-edition) \$135.00 
+- [Gladiator NXT EVO Omni Throttle (GNX EVO Omni Throttle w/ SCG Left Premium)]( https://vkbcontrollers.com/?product=gladiator-evo-omni-throttle ) \$175.00
+- [Orbit Plus Turntable](https://uturnaudio.com/products/orbit-plus-turntable) \$399
+- [IfI Zen Phono](https://www.walmart.com/ip/iFi-Audio-ZEN-Air-Phono-External-Turntable-Phono-Preamplifier/1650287166?irgwc=1&sourceid=imp_12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&veh=aff&wmlspartner=imp_1943169&clickid=12PXrFzRcxyPUE3w6208pQrzUkF1ReXnNSAVSY0&sharedid=whathifi-us&affiliates_ad_id=568844&campaign_id=9383) \$99.00
+- [Moondrop PARA](https://shenzhenaudio.com/products/moondrop-para-full-size-planar-headphone) \$299.99
 - [Solder Wick](https://www.adafruit.com/product/149) \$3.00
 
