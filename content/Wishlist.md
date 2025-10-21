@@ -1,3 +1,6 @@
+- [Ebony Filberts](https://www.rosemaryandco.com/oil-brushes/ebony-filberts) \$varies, any number of sizes 1-11
+- [Series 2045. Chungking Filbert](https://www.rosemaryandco.com/oil-brushes/chungking-filbert) \$varies, any number of LONG HANDLE any size
+- [Pitt Natural Charcoal Pencil](https://www.fabercastell.com/products/pitt-natural-charcoal-pencil?variant=40236882952247) \$3.35, one or more
 - [Steam Deck Dock](https://store.steampowered.com/steamdeckdock) \$80
 - [kobo libra color - black](https://us.kobobooks.com/products/kobo-libra-colour?variant=41267371376710) \$230 optionally w/ [Metapen Stylus Pen M2](https://www.amazon.com/Metapen-Stylus-Surface-Premium-Control/dp/B0B1CY438Q) \$30
 - [Chess Tactics for Students - Bain](https://www.chesshouse.com/products/chess-tactics-for-students-bain) \$19
